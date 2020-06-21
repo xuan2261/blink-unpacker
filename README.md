@@ -11,12 +11,12 @@ Features
 - Restores Assembly Name And Cleans Anti-de4dot
 
 
-#What obfuscators does blink unpacker support?
+# What obfuscators does blink unpacker support?
 blink unpacker currently only FULLY supports one obfuscator and thats isolated
 
 however it will be able to support multiple protections in almost any skidded obfuscator
 
-#What obfuscators will blink unpacker support soon?
+# What obfuscators will blink unpacker support soon?
 Planning to merge my vmp mutation unpacker into this
 Planning to add unpackers for eddy leaked shit
 
