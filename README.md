@@ -18,6 +18,7 @@ however it will be able to support multiple protections in almost any skidded ob
 
 # What obfuscators will blink unpacker support soon?
 Planning to merge my vmp mutation unpacker into this
+
 Planning to add unpackers for eddy leaked shit
 
 Credits
